@@ -1,0 +1,15 @@
+ .header {
+    background-color: blue;
+    height: 90px;
+  }
+
+  .btn {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border: 1px solid black;
+    padding: 10px 40px;
+    margin: 50px 0;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s;
+ }
