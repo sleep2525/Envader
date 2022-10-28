@@ -18,6 +18,29 @@
   padding: 33px 20px;
   }
 
+  img{
+    width: 500px;
+    height: 200px;
+  }
+
+  .main{
+    padding: 100px 80px;
+  }
+
+  .copy-container h1{
+    background-color:aquamarine;
+    color: #fff;
+    font-size: 30px;
+  }
+
+  .copy-container h3{
+    font-size: 20px;
+  }
+
+  .copy-container span{
+    background-color: aqua;
+  }
+
   .footer{
     background-color: #2f5167;
     color: #fff;
