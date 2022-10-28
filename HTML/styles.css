@@ -9,10 +9,32 @@
     padding: 20px 40px;
   }
 
- li{
+  li{
   list-style: none;
-  float: left;
+   }
+
+  .header-list li{
+    float: left;
   padding: 33px 20px;
+  }
+
+  .footer{
+    background-color: #2f5167;
+    color: #fff;
+    padding: 200px;
+  }
+
+  .footer-logo{
+    font-size: 32px;
+    float: left;
+  }
+
+  .footer-list{
+    float: right;
+  }
+
+  .footer-list li{
+    padding-bottom: 20px;
   }
 
   .btn {
